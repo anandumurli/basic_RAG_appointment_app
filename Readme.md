@@ -1,4 +1,4 @@
-# ChatGPT app using Langchain and python
+# ChatBot app using Langchain and python
 
 In this project we are trying to implemet a chatbot using Langchain and OpenAI.
 
@@ -14,4 +14,4 @@ By booking an appointment, the app will be able to create an entry in the SQL DB
 1) Clone the repo.
 2) Create a virtual env (Optional step).
 3) Install the requirements from the ``requirements.txt`` file.
-4) Run the command  ``` python app.py ```
+4) It's a .ipynb file hence use either Jupyter Notebook, Google Colab or any other suitable application to run the file.

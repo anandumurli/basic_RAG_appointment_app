@@ -6,6 +6,7 @@ Include
 Lib
 Scripts
 share
+.env
 
 # VS Code
 .vscode/
